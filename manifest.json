@@ -12,15 +12,19 @@
     "termsOfUseUrl": "https://www.capgemini.com/terms-of-use/"
   },
 
-  "name": {
-    "short": "INCA_SAP_SD_Assistant",
-    "full": "INCA SAP SD Assistant Teams Bot"
-  },
 
-  "description": {
-    "short": "A Teams bot that answers questions about SAP SD tickets.",
-    "full": "INCA SAP SD Assistant searches the SAP SD ticket knowledge base to help you troubleshoot and resolve SAP SD incidents (orders, pricing, delivery, billing, output) in Microsoft Teams."
-  },
+  
+  "name": {
+  "short": "Vashist-SD",
+  "full": "Vashist-SD SAP Support Assistant"
+}
+
+  ,
+
+"description": {
+  "short": "Vashist-SD SAP Support Assistant",
+  "full": "Vashist-SD helps users troubleshoot SAP SD incidents and tickets."
+},
 
   "icons": {
     "outline": "outline.png",
