@@ -1,0 +1,5 @@
+aiohttp
+botbuilder-core
+botbuilder-integration-aiohttp
+python-dotenv
+gunicorn
