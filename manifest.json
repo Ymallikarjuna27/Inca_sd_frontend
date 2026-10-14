@@ -3,7 +3,7 @@
 
   "manifestVersion": "1.22",
   "version": "1.0.0",
-  "id": "aaaaaaaa",
+  "id": "eee0f426-a264-462a-9506-4ba7d642c26c",
 
   "developer": {
     "name": "Mallikarjuna",
@@ -34,8 +34,8 @@
       "entityId": "inca-sap-sd-home",
       "name": "INCA SAP SD Assistant",
 
-      "contentUrl": "https://estes.net",
-      "websiteUrl": "https://es.net",
+      "contentUrl": "https://inca-sd-bot-app-hnapg0dbgafkdjgp.centralindia-01.azurewebsites.net",
+      "websiteUrl": "https://inca-sd-bot-app-hnapg0dbgafkdjgp.centralindia-01.azurewebsites.net",
 
       "scopes": [
         "personal"
@@ -45,7 +45,7 @@
 
   "bots": [
     {
-      "botId": "aaaaaaaa",
+      "botId": "eee0f426-a264-462a-9506-4ba7d642c26c",
       "scopes": [
         "personal",
         "team",
@@ -59,6 +59,6 @@
   "permissions": [],
 
   "validDomains": [
-    "esb-sites.net"
+  "inca-sd-bot-app-hnapg0dbgafkdjgp.centralindia-01.azurewebsites.net"
   ]
 }
