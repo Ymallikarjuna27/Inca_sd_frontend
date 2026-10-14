@@ -1,5 +1,5 @@
 """
-inca_sap_sd - SAP SD (Sales & Distribution) ticket support bot
+Vashist-SD - SAP SD (Sales & Distribution) ticket support bot
 
 Two ways to talk to it:
   1. Microsoft Teams (Bot Framework)  ->  POST /api/messages
@@ -50,7 +50,8 @@ logger = logging.getLogger("inca_sap_sd")
 # SETTINGS
 ###############################################################################
 
-BOT_NAME = "inca_sap_sd"
+# BOT_NAME = "inca_sap_sd"
+BOT_NAME = "Vashist-SD"
 RAG_TOP_K = int(os.environ.get("RAG_TOP_K", 10))
 RAG_API_KEY = os.environ.get("RAG_API_KEY", "")
 RAG_TIMEOUT_SECONDS = int(os.environ.get("RAG_TIMEOUT_SECONDS", 120))
